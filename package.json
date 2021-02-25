@@ -1,8 +1,7 @@
 {
-  "name": "webpack-react",
+  "name": "easymde-reactmarkdown-widgets",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Michael Pontus <m.pontus@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist/assets/js/* && webpack --mode production",
